@@ -32,7 +32,7 @@ Nécessite l'installation d'une base de données MySql puis de rentrer ses ident
 
 ![](https://github.com/flejoncour/Photogrammes/blob/master/images/fenetrePrincipale.png?raw=True)
 ![](https://github.com/flejoncour/Photogrammes/blob/master/images/lecteurImage.png)
-![](https://raw.githubusercontent.com/flejoncour/Photogrammes/master/images/fenetreAjoutBDD.png)
+![](https://raw.githubusercontent.com/flejoncour/Photogrammes/master/images/fenetreAjoutBDD.png?raw=True)
 
 
 
