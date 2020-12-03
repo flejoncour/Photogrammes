@@ -7,7 +7,7 @@ class ConnexionBD():
     def __init__(self):
         try:
             self._connexionDB = mysql.connector.connect(
-                host = "",
+                host = "",          # insérer ici vos identifiants
                 user = "",
                 passwd = "",
             )
@@ -16,7 +16,7 @@ class ConnexionBD():
 
             try:
                 self._connexionDB = mysql.connector.connect(
-                    host = "",
+                    host = "",          # insérer ici vos identifiants
                     user = "",
                     passwd = "",
                     database = "photogrammes"
@@ -27,7 +27,7 @@ class ConnexionBD():
                 self.creationDB()
                 try:
                     self._connexionDB = mysql.connector.connect(
-                    host = "",
+                    host = "",          # insérer ici vos identifiants
                     user = "",
                     passwd = "",
                     database = "photogrammes"
