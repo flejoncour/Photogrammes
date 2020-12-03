@@ -27,9 +27,14 @@ L'ajout d'image se fait via le bouton en haut à droite de la fenêtre principal
 	- commentaire sur l'image
 Il est tout à fait possible de laisser un ou plusieurs de ces champs vides.
 
+Ouverture de l'application en lançant Controleur.py.
+
 Réalisée en Python avec les modules Tkinter/PIL et une base de données MySql.
 Nécessite l'installation d'une base de données MySql puis de rentrer ses identifiants aux espaces prévus dans le fichier ConnexionDB.py (l'ouverture de l'application se charge ensuite de la création de la base et de la table ainsi que de l'insertion de 10 images prévues de base).
 
 ![](https://raw.githubusercontent.com/flejoncour/Photogrammes/master/images/fenetrePrincipale.jpg)
+	Fenêtre principale
 ![](https://raw.githubusercontent.com/flejoncour/Photogrammes/master/images/lecteurImage.jpg)
+	Lecteur d'images (double-clic sur l'image)
 ![](https://raw.githubusercontent.com/flejoncour/Photogrammes/master/images/fenetreAjoutBDD.jpg)
+	Fenêtre d'ajout à la base de données
