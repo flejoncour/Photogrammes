@@ -30,6 +30,6 @@ Il est tout à fait possible de laisser un ou plusieurs de ces champs vides.
 Réalisée en Python avec les modules Tkinter/PIL et une base de données MySql.
 Nécessite l'installation d'une base de données MySql puis de rentrer ses identifiants aux espaces prévus dans le fichier ConnexionDB.py (l'ouverture de l'application se charge ensuite de la création de la base et de la table ainsi que de l'insertion de 10 images prévues de base).
 
-![](https://github.com/flejoncour/Photogrammes/blob/master/images/fenetrePrincipale.png)
+![](https://github.com/flejoncour/Photogrammes/blob/master/images/fenetrePrincipale.png?raw=True)
 ![](https://github.com/flejoncour/Photogrammes/blob/master/images/lecteurImage.png)
-![](https://raw.githubusercontent.com/flejoncour/Photogrammes/master/images/fenetreAjoutBDD.png?raw=True)
+![](https://raw.githubusercontent.com/flejoncour/Photogrammes/master/images/fenetreAjoutBDD.jpg)
